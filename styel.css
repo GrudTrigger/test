@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.register{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.box_registr{
+    margin-top: 50px;
+}
+
+.box_registr .box{
+    background-color: aquamarine;
+    width: 400px;
+}
